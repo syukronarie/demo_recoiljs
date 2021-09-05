@@ -1,5 +1,3 @@
-import "./App.css";
-
 import React from "react";
 import { atom, RecoilRoot, selector, useRecoilState, useRecoilValue } from "recoil";
 
